@@ -1,7 +1,7 @@
 # Foot Lakehouse
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/foot-lakehouse)
+![GitHub last commit](https://img.shields.io/github/last-commit/Beesh1/foot-lakehouse)
 
 Foot Lakehouse is a lightweight data ingestion and storage solution designed for real-time data processing and backup. It uses SQLite as the primary database, MinIO for S3-compatible storage, and Litestream for continuous database replication, ensuring data durability. The project is ideal for small-scale applications needing efficient data ingestion with reliable backups.
 
