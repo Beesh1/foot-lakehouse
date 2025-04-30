@@ -1,0 +1,12 @@
+dbs:
+  - path: /app/data/foot_sqlite.db
+    replicas:
+      - type: s3
+        bucket: lakehouse
+        path: db/foot_sqlite.db
+        endpoint: http://minio:9000
+        access-key-id: ${MINIO_ROOT_USER}
+        secret-access-key: ${MINIO_ROOT_PASSWORD}
+        force-path-style: true
+        skip-verify: true
+        sync-interval: 1s
