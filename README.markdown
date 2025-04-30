@@ -124,4 +124,4 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or support, please open an issue or reach out to [your email or contact info].
+For questions or support, please open an issue or reach out to [bishoysamehmagdy@gmail.com].
